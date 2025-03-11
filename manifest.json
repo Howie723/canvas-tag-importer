@@ -1,0 +1,10 @@
+{
+	"id": "canvas-tag-importer",
+	"name": "canvas-tag-importer",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Enables you to import titles and descriptions from all files with a specific tag into Canvas with a single click, and supports automatic updates.",
+	"author": "Howie723",
+	"authorUrl": "https://github.com/Howie723",
+	"isDesktopOnly": false
+}

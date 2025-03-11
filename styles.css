@@ -1,0 +1,8 @@
+.canvas-importer-modal .setting-item-control input[type="range"] {
+    flex: 1;
+    margin: 0 10px;
+}
+
+.canvas-importer-modal .setting-item-info {
+    min-width: 100px;
+}
